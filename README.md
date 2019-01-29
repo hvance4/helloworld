@@ -1,2 +1,3 @@
 # helloworld
-just another repository
+just another repository by a fairmont state student
+
